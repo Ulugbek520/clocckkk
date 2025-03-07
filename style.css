@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c36;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff3d7b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
